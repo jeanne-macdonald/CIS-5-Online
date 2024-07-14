@@ -1,0 +1,5 @@
+The numbers in this file: 200
+Total: 105527
+Average: 527.635
+High: 1000
+Low: 7
